@@ -1,13 +1,8 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
+- degree: Post Graduate Diploma in Data Science
+  uni: IIIT Bangalore
+  year: 2022 &mdash; 2023
+  
+- degree: Bachelor of Engineering - Computer Science
+  uni: VTU
   year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
